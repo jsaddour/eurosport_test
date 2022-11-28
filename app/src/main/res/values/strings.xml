@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EurosportTestApp</string>
+
+    <string name="title">FEATURED</string>
+    <string name="by">By %1$s - %2$s</string>
+    <string name="views">%1$s views</string>
+</resources>
